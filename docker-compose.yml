@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+
+  web:
+    build: .
+    ports:
+      - "3000:3000"
+    working_dir: /app
+    volumes:
+      - type: bind
+        source: .
+        target: /app
+    
+    image: nginx
+    container_name: maonlineyoutubevideodownloader
