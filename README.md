@@ -1,7 +1,7 @@
 ## MA Online YouTube Video Downloader Docker Compose YML File
 
 ## Overview
-Do you Want to create and run Docker Compose YML File?
+Do you want to create and run Docker Compose YML File?
 
 Docker Compose is a tool for defining and running multi-container Docker applications. 
 It allows developers to define the application’s services, networks, and volumes in a single file called a docker-compose.yml file. 
