@@ -15,7 +15,8 @@ The docker-compose.yml file can be used to set up, configure, and start all of t
 
 ## How to Download
 
-Download this project from here [Download MA Online YouTube Video Downloader Docker Compose YML]
+Download this project from here
+
 https://github.com/ma-muhammadali/pse_MAOnlineYouTubeVideoDownloader_Docker_Compose_YML.git
 
 ## Requirements
